@@ -11,7 +11,7 @@
 ### Notion 링크
 [김대정 - Notion](https://www.notion.so/v4chelsea/BaaaaaaaaaaaaarkingDog-C-1-fffc5fee96344ffa99ae8d7278616882)  
 [임준혁 - Notion]()  
-[홍영훈 - Notion]()  
+[홍영훈 - Notion](https://acoustic-basin-638.notion.site/Algorithm-study-bd95532a107f4def962a80b6ba66d724)  
 
 ### 회차별 기록
 1회차 09월 07일 수요일  
