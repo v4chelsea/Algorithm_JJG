@@ -20,4 +20,4 @@
 [BaaaaaaaarkingDog - Github](https://github.com/encrypted-def/basic-algo-lecture)  
 [BaaaaaaaarkingDog - Youtube](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)  
 
-
+1회차 스터디는 바킹독의 1, 2차 강좌를 학습하고, 정리한 내용을 Notion에 공유한다.
