@@ -19,6 +19,8 @@
 [BaaaaaaaarkingDog - Github](https://github.com/encrypted-def/basic-algo-lecture)  
 [BaaaaaaaarkingDog - Youtube](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)  
 
+못푸는 문제가 발생할 경우 그 사실을 명백히 기술하고, 어디까지의 풀이를 진행했는지 내용을 공유한다.  
+
 ### 1회차 09월 07일 수요일  
 1회차 스터디는 바킹독의 1, 2차 강좌를 학습하고, 정리한 내용을 Notion에 공유한다.  
 
